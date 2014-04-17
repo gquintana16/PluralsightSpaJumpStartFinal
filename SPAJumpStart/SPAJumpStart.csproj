@@ -297,6 +297,7 @@
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\Room.cs" />
     <Compile Include="Models\Session.cs" />
+    <Compile Include="Models\SessionBrief.cs" />
     <Compile Include="Models\SessionConfiguration.cs" />
     <Compile Include="Models\TimeSlot.cs" />
     <Compile Include="Models\Track.cs" />
